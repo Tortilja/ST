@@ -1,0 +1,67 @@
+﻿   @model ST.Models.ViewModels.UI.ImageGaleryUIVM
+
+
+<div class="container">
+    <div class="row">
+
+
+        <div class="col-lg-2 border">
+    
+                <button class="btn btn-dark filter-button col-lg-12 mt-2" data-filter="all">All</button>
+            
+            
+                @foreach (var obj in Model.Event)
+                {
+                
+                //Display all categoryes
+                    <button class="btn btn-outline-secondary filter-button col-lg-12 mt-2" data-filter="@obj.Event_Title.Replace(" ","_")">
+                        @obj.Event_Title
+                    </button>
+                }
+           
+           
+
+
+
+        </div>
+        <div class="col-10 ">
+            <div class="row">
+            
+            @foreach (var prod in Model.ImageGallery)
+            {
+            
+                    <partial name="_IndividualImageCart" model="prod" />
+                
+                //Display all Products
+            }
+        
+            </div>
+        </div>
+         
+
+   
+    </div>
+
+</div>
+
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+
+            $(".filter-button").click(function () {
+
+                var value = $(this).attr('data-filter');
+                if (value == "all") {
+                    $('.filter').show('1000');
+                }
+                else {
+                    $(".filter").not('.' + value).hide('3000');
+                    $('.filter').filter('.' + value).show('3000');
+
+                }
+            });
+
+        });
+    </script>
+}

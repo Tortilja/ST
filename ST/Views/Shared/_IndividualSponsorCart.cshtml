@@ -1,0 +1,18 @@
+﻿@model ST.Models.Sponsor
+<style>
+    .img-resize {
+        height: 150px;
+        width: 150px;
+        object-fit: cover;
+        object-position: center center;
+    }
+</style>
+<div class="col-lg-3 col-md-6">
+    <!-- Card-->
+    <div class="text-center">
+        <span>@Model.Sponsor_Name</span>
+        <img class="card-img-top img-fluid d-block mx-auto img-resize" src="@WC.SponsorImagePath@Model.Sponsor_Image" alt="Card image cap">
+    </div>
+       
+</div>
+

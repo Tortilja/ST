@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ST.Models.ImageGallery>
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Gallery</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-action="Upsert" class="btn btn-primary">
+                <i class="fa-solid fa-plus"></i> &nbsp;Insert New Image
+            </a>
+
+        </div>
+    </div>
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>
+                        Image
+                    </th>
+                    <th>
+                        Event
+                    </th>
+                    <th>
+                        Option
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td width="50%">@obj.Image_Name</td>
+                        <td width="30%">@obj.Event_FK_ID</td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-route-Id="@obj.Image_ID" asp-action="Upsert" class="btn btn-primary">
+                                    <i class="fa-solid fa-pen-to-square"></i> &nbsp;Edit
+                                </a>
+                                <a asp-route-Id="@obj.Image_ID" asp-action="Delete" class="btn btn-danger">
+                                    <i class="fa-solid fa-trash"></i> &nbsp;Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Image Exist</p>
+    }
+</div>

@@ -1,0 +1,65 @@
+﻿@model ST.Models.Sponsor
+
+
+<form method="post">
+
+    <input asp-for="Sponsor_ID" hidden />
+
+
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-info pl-3">Delete Image</h2>
+        </div>
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Sponsor_Name"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Sponsor_Name" disabled class="form-control" />
+                        <span asp-validation-for="Sponsor_Name" class="text-danger"></span>
+                    </div>
+                </div>
+           
+                <div class="col-4">
+
+                    @if (Model.Sponsor_ID != 0)
+                    {
+                        <img src="@WC.SponsorImagePath@Model.Sponsor_Image" style="width:100%; border-radius:5px; border:1px solid #bbb" />
+                    }
+                </div>
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger w-100">Delete</button>
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success w-100"><i class="fa-solid fa-right-to-bracket"></i>&nbsp;Back</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_Validationscriptspartial" />
+    }
+
+    <script>
+        $(document).ready(function () {
+            $('.summernote').summernote({
+                height: 250,
+                disabled: true
+            });
+        });
+    </script>
+}
+
+

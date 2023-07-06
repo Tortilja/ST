@@ -1,0 +1,32 @@
+﻿@model ST.Models.ViewModels.UI.SponsorUIVM
+
+
+<div class="container">
+    <div class="row">
+        <h1 class="text-center">Mūs sponsorē</h1>
+        <div class="col-12">
+            <div class="row">
+
+                @foreach (var prod in Model.Sponsor)
+                {
+
+                    <partial name="_IndividualSponsorCart" model="prod" />
+
+                    //Display all Products
+                }
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+</div>
+
+@section Scripts
+    {
+    <script>
+        
+    </script>
+}

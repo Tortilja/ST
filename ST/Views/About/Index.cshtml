@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ST.Models.About>
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">About Information</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-action="Upsert" asp-controller="About" class="btn btn-primary">
+                <i class="fa-solid fa-plus"></i> &nbsp;Insert About Information
+            </a>
+
+        </div>
+    </div>
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>
+                        About Information
+                    </th>
+                    <th>
+                        Option
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td width="50%">@obj.About_Description</td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="About" asp-route-Id="@obj.About_ID" asp-action="Upsert" class="btn btn-primary">
+                                    <i class="fa-solid fa-pen-to-square"></i> &nbsp;Edit
+                                </a>
+                                <a asp-controller="About" asp-route-Id="@obj.About_ID" asp-action="Delete" class="btn btn-danger">
+                                    <i class="fa-solid fa-trash"></i> &nbsp;Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Don`t have About Information</p>
+    }
+</div>

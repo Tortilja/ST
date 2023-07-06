@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ST.Models.Sponsor>
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Sponsor List</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-action="Upsert" asp-controller="Sponsor" class="btn btn-primary">
+                <i class="fa-solid fa-plus"></i> &nbsp;Insert New Sponsor
+            </a>
+
+        </div>
+    </div>
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>
+                        Sponsor Name
+                    </th>
+                    <th>
+                        Sponsor Image
+                    </th>
+                    <th>
+                        Option
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td width="50%">@obj.Sponsor_Name</td>
+                        <td width="30%">@obj.Sponsor_Image</td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Sponsor" asp-route-Id="@obj.Sponsor_ID" asp-action="Upsert" class="btn btn-primary">
+                                    <i class="fa-solid fa-pen-to-square"></i> &nbsp;Edit
+                                </a>
+                                <a asp-controller="Sponsor" asp-route-Id="@obj.Sponsor_ID" asp-action="Delete" class="btn btn-danger">
+                                    <i class="fa-solid fa-trash"></i> &nbsp;Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Sponsor Exist</p>
+    }
+</div>
