@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ST.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ST.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\css\\icon_animation.css",
+      "PackagePath": "staticwebassets\\css\\icon_animation.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\094decab-b753-4da9-bc6c-952722ff6174.jpg",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\094decab-b753-4da9-bc6c-952722ff6174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\2c2a74de-dfe9-42e2-9e62-cee8b725f3f8.jpg",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\2c2a74de-dfe9-42e2-9e62-cee8b725f3f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\6b5ca208-36f2-46d8-a7e0-2e9f9b930135.jpg",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\6b5ca208-36f2-46d8-a7e0-2e9f9b930135.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\74b5a4ee-5fd6-4f18-a438-477b058005fa.png",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\74b5a4ee-5fd6-4f18-a438-477b058005fa.png"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\b459827f-5d94-4692-b65f-79fa6671f9fc.jpg",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\b459827f-5d94-4692-b65f-79fa6671f9fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\galleryImage\\dd616285-bcce-4fcb-8cab-20c6a8254db7.jpg",
+      "PackagePath": "staticwebassets\\images\\galleryImage\\dd616285-bcce-4fcb-8cab-20c6a8254db7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\jumbotron\\Jumbotron.jpg",
+      "PackagePath": "staticwebassets\\images\\jumbotron\\Jumbotron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\sponsorImage\\29d27bbf-b342-412d-b3c4-ac38bb3d8dda.jpg",
+      "PackagePath": "staticwebassets\\images\\sponsorImage\\29d27bbf-b342-412d-b3c4-ac38bb3d8dda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\sponsorImage\\80ada528-b76b-42b9-ba35-3a0c80dc03ed.webp",
+      "PackagePath": "staticwebassets\\images\\sponsorImage\\80ada528-b76b-42b9-ba35-3a0c80dc03ed.webp"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\sponsorImage\\9d460282-92f0-4466-be28-102fc3924ee6.png",
+      "PackagePath": "staticwebassets\\images\\sponsorImage\\9d460282-92f0-4466-be28-102fc3924ee6.png"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\images\\sponsorImage\\b8842b38-e439-4a84-8cbd-b37754441cbb.jpg",
+      "PackagePath": "staticwebassets\\images\\sponsorImage\\b8842b38-e439-4a84-8cbd-b37754441cbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\deskopt\\Desktop\\Projects\\ST\\ST\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ST.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ST.props",
+      "PackagePath": "build\\ST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ST.props",
+      "PackagePath": "buildMultiTargeting\\ST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ST.props",
+      "PackagePath": "buildTransitive\\ST.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
